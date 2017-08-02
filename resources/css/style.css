@@ -16,6 +16,10 @@ h1 {
   color: white;
 }
 
+.hero {
+  background-image: ."/resources/images/the-flatiron-building.png";
+}
+
 h2 {
   text-align: center;
   font-weight: bold;
@@ -35,7 +39,13 @@ p {
   font-size: 14px;
   font-family: Helvetica, sans-serif;
   text-align: center;
+}
 
+h4 {
+  color: white;
+  font-size: 23px;
+  text-align: center;
+}
   .footer {
     font-size: 11px;
     color: white;
