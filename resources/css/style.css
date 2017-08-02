@@ -9,6 +9,10 @@ body {
   background-color: white;
 }
 
+  .hero {
+    background-image: url("resources/images/the-flatiron-building.png");
+  }
+
 h1 {
   text-align: center;
   font-weight: bold;
@@ -45,9 +49,6 @@ h4 {
   .footer {
     font-size: 11px;
     color: white;
+    text-align: left;
     background-color: dimgray;
-  }
-
-  .hero {
-    background-image: url("images/the-flatiron-building.png");
   }
