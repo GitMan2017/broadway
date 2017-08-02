@@ -17,7 +17,7 @@ h1 {
 }
 
 .hero {
-  background-image: url(https://gitman2017.github.io/broadway/broadway/images/the-flatiron-building.png);
+  background-image: url("https://gitman2017.github.io/broadway/broadway/images/the-flatiron-building.png");
 }
 
 h2 {
