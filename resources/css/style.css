@@ -17,7 +17,7 @@ h1 {
 }
 
 .hero {
-  background-image: ."/resources/images/the-flatiron-building.png";
+  background-image: "./resources/images/the-flatiron-building.png";
 }
 
 h2 {
