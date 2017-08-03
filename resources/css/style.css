@@ -24,6 +24,10 @@ h1 {
   color: white;
   }
 
+  .supporting {
+    text-align: center;
+  }
+
 .btn-nav {
   font-size: 18px;
   color: white;
