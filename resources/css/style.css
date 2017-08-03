@@ -55,6 +55,7 @@ h4 {
   font-size: 23px;
   text-align: center;
 }
+
   .footer {
     font-size: 11px;
     color: white;
@@ -63,6 +64,7 @@ h4 {
   }
 
   .btn-nav2 {
+    font-size: 18px;
     text-align: left;
     color: white;
   }
