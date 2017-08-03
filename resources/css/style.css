@@ -18,6 +18,8 @@ h1 {
   .hero {
     background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
     display: block;
+    text-align: center;
+    color: white;
   }
 
 h2 {
